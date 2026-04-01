@@ -50,6 +50,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
 </p>
-
-<h3 align="center"></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeness&show_icons=true&locale=en&layout=compact" alt="yeness" /></p>
